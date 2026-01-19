@@ -1,0 +1,1 @@
+square:triangle triangle:circle circle:hexagon hexagon:star star:cross cross:semicircle semicircle:diamond diamond:ring ring:square 
