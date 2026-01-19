@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# CMake build directory
+build/
+cmake-build-*/
+
+# Performance output files
+*.csv
+domino_performance.csv
